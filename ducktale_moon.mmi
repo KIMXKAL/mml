@@ -1,0 +1,15 @@
+[mml-score]
+version=1
+title=
+author=
+time=4/4
+tempo=0T180
+mml-track=MML@t180l8>f+>c+f+g+c+f+g+bc+ba+c+a+g+f+<c+1&c+l4f+g+bb.a+8a+2&a+.g+f+l2.n73f+>f+1.l8&f+g+4.rf+n66c+f+g+c+f+g+c+bc+ba+c+a+g+f+n66c+f+g+<<a+b>c+l4c+.f+ff+g+l8a+f+1&f+4.ff+>c+4.<f+f+1&f+4f+f+f+2rg+f+f1&f<a+2rg+f+>c+2&c+f+4g+4b4.a+a+1>c+4<b4a+ba+f+4c+2g+f+fd+f4.f+4rf+r4f+2l32<<gg+aa+b>cc+dd+eff+gg+aa+r>cc+dd+eff+l8f+f+r4g+g+re2c+4el24c-c<bl8ab4abrar>c+1&c+f+f+r4g+g+ra4e4e4eab&b2.a>c+2.c+c+l4c+r1r.o3der2>a+8b8>c+8c+.f+ff+g+l8a+f+1&f+4.ff+>c+4.<f+f+1&f+4f+f+f+2rg+f+f1&f<a+2rg+f+>c+2&c+f+4g+4b4.a+a+1>c+4<b4a+ba+f+4c+2g+f+fd+f4.f+4rf+r4f+2l32<<gg+aa+b>cc+dd+eff+gg+aa+r>cc+dd+eff+l8f+f+r4g+g+re2c+4el24c-c<bl8ab4abrar>c+1&c+f+f+r4g+g+ra4e4e4eab&b2.a>c+2.c+c+l4c+r1r.o3de,r1.r.l8>f+>c+f+g+c+f+g+bc+ba+c+a+g+f+n66c+f+g+c+f+g+bc+ba+c+a+g+f+n66rf+g+rf+g+bc+ba+c+a+g+rn66c+rg+c+rg+bc+ba+c+a+g+f+>c+1&c+1r2<c+f+g+c+bc+ba+c+a+g+f+n66c+f+g+c+f+g+c+bc+ba+c+a+g+f+n66rf+g+c+f+g+c+bc+ba+c+a+g+f+rc+f+g+c+f+g+c+bc+ba+c+a+g+f+n66c+f+g+c+f+g+c+bc+ba+c+a+g+f+n66c+f+g+c+f+g+c+bc+ba+ra+g+f+n66c+f+g+c+f+g+c+bc+ba+c+a+g+f+f+<a>dg+c-g+ba+f+c+<ba+f+c+<ba+aar4bbra4>g+a>erg+a>eo4d4ddrdrf1&f>ddr4<bbr>c+4c+4c+4c+ef+&f+2.f+f2.fff+f+>c+f+g+c+f+g+c+bc+ba+c+a+g+f+n66c+f+g+c+f+g+c+bc+ba+c+a+g+f+n66c+f+g+c+f+g+c+bc+ba+c+a+g+f+n66rf+g+c+f+g+c+bc+ba+c+a+g+f+rc+f+g+c+f+g+c+bc+ba+c+a+g+f+n66c+f+g+c+f+g+c+bc+ba+c+a+g+f+n66c+f+g+c+f+g+c+bc+ba+ra+g+f+n66c+f+g+c+f+g+c+bc+ba+c+a+g+f+f+<a>dg+c-g+ba+f+c+<ba+f+c+<ba+aar4bbra4>g+a>erg+a>eo4d4ddrdrf1&f>ddr4<bbr>c+4c+4c+4c+ef+&f+2.f+f2.fff+f+>c+f+g+c+f+g+c+bc+ba+c+a+g+f+,r1.l4.rn42c+f+1&f+8<eb>e1&e8<d+a+>d+1&d+8<da>d1l8&df+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+ffffffffd+d+d+d+d+d+d+d+c+c+c+c+c+c+c+c+<bbbbbbbb>ccccccccc+c+c+c+c+c+c+c+c+c+c+c+c+c+c+c+f+f+f+f+f+f+rf+ffffffffd+d+d+d+d+d+d+d+ddddddddc+c+c+c+c+c+c+c+ccccc+c+c+c+d4rer4f+4.<f+f+f+f+f+f+f+bbr4>eer<a4aaaaaaabbbbbbbb>c+c+c+c+c+c+c+c+<bbr4>eer<a4aaaaaaabbbbbbbb>c+c+c+c+c+c+c+c+ddddddddd4r4<d4e4>f+f+f+f+f+f+f+f+ffffffffd+d+d+d+d+d+d+d+c+c+c+c+c+c+c+c+<bbbbbbbb>ccccccccc+c+c+c+c+c+c+c+c+c+c+c+c+c+c+c+f+f+f+f+f+f+rf+ffffffffd+d+d+d+d+d+d+d+ddddddddc+c+c+c+c+c+c+c+ccccc+c+c+c+d4rer4f+4.<f+f+f+f+f+f+f+bbr4>eer<a4aaaaaaabbbbbbbb>c+c+c+c+c+c+c+c+<bbr4>eer<a4aaaaaaabbbbbbbb>c+c+c+c+c+c+c+c+ddddddddl4dr<de;
+name=Track1
+program=22
+songProgram=-2
+panpot=64
+visible=true
+[time-signature]
+0=15/8
+3600=4/4
